@@ -19,4 +19,12 @@
  
  Format()
  
+ 2 - VARIABLES AND DATA TYPES
+ 
+ variable naming conventions
+ 
+ data types
+ 
+ operatrions on string
+ 
  
