@@ -28,3 +28,15 @@
  operatrions on string
  
  
+ 3 - DATA STRUCTURES
+ 
+ ARRAY
+ 
+ LIST
+ 
+ TUPLE
+ 
+ DICT
+
+SETS
+ 
