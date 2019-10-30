@@ -77,3 +77,17 @@ SETS
  OR Keyword
  
  Arithmetic operators  / Comparison operators / Logical operators / Bitwise operator /  Assignment operators / Membership operators
+ 
+ 5- Numpy Module
+ 
+ Numpy Arrays
+ 
+ Array creation using Built In function - Zeros / Ones / Full / arange / Linespace 
+ 
+ Random Sampling in NumPy - rand / Randn / randint / random / binomial / normal / uniform 
+ 
+ Array Attributes and Methods - ndim / shape / size  / dtype / mean / max / median / min / var / std / sum / cumsum
+ 
+ Array Manipulation - sqrt / vstack / hstack / column_stack / transpose()
+ 
+ 
