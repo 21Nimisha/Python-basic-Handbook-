@@ -91,3 +91,13 @@ SETS
  Array Manipulation - sqrt / vstack / hstack / column_stack / transpose()
  
  
+ 6- MATPLOTLIB BASIC FUNCTION 
+ 
+ Creating Figure / Creating Subplot / Setting X-axis and Y-axis limits / Multiple Axes 
+ 
+ Plotting - Line Plot  - plot NumPy one dimensional array , Plotting two-dimensional arrays , plotting pandas data structures
+ 
+ Scatter Plot / Histogram Plots
+ 
+ Customization in plot
+ 
